@@ -12,33 +12,32 @@
         <h3>Studying:</h3>
         <ul>
             <li>
-                JavaScript/Typescript
+                Front-End
                 <ol type="1">
-                    <li>Python</li> 
-                    <li>React</li>
-                    <li>NextJS</li>
+                    <li>HTML</li> 
+                    <li>CSS</li>
+                    <li>JavaScript</li>
                     <li>React-Native</li>
                 </ol>
             </li>
             <li>
-                Java - Spring;
+                Back-End
+                <ol type="1">
+                    <li>Python</li> 
+                    <li>Node-Js</li>
+                    <li>SQL</li>
+                </ol>
             </li>
         </ul>
     </div>
     <div align="left">
       <h2>Development Stack</h2>
-      <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
+      <img src="https://img.icons8.com/nolan/64/html-5.png" title="HTML"  />
       <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
-      <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript"/>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
       <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" />
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Bot"/>
-      <img src="https://img.icons8.com/color/48/000000/android-os.png" title="Android Development" />
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
     </div>
     <div align="left">
