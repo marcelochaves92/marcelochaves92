@@ -25,7 +25,7 @@
                 <ol type="1">
                     <li>Python</li> 
                     <li>Node-Js</li>
-                    <li>SQL</li>
+                    <li>MySQL</li>
                 </ol>
             </li>
         </ul>
