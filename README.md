@@ -4,20 +4,20 @@ I'm Marcelo Silva Chaves, Front End Developer at Bigou Delivery, Computer Scienc
 
 ### Studying:
 
-Front End
+    Front End
 
-1. HTML
-2. CSS
-3. JavaScript
-4. React
-5. AngularJS
-6. Vue.js
+        1. HTML
+        2. CSS
+        3. JavaScript
+        4. React
+        5. AngularJS
+        6. Vue.js
 
-Back End
+    Back End
 
-1. Python
-2. NodeJS
-3. MySQL
+        1. Python
+        2. NodeJS
+        3. MySQL
 
 ## Development Stack
 
