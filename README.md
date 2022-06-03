@@ -40,6 +40,11 @@
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
     </div>
+    <div>
+      <h2> GitHub Stats </h2>
+      <a href= "https://github-readme-stats.vercel.app/api?username=marcelochaves92&show_icons=true&count_private=true&theme=dark)">
+      <a href= "https://github-readme-stats.vercel.app/api/top-langs/?username=marcelochaves92&layout=compact&count_private=true&theme=dark)">
+    </div>
     <div align="left">
       <h2>Find Me</h2>
       <a href="https://www.linkedin.com/in/marcelochaves92/" target="_blank" style="text-decoration: none">
