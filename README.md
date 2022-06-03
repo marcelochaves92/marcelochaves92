@@ -6,7 +6,7 @@
     </div>
      <div align="left">
       </h3>
-      <p>I'm Marcelo Silva Chaves, Full Stack Developer, Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba Minas Gerais (IFSEMG)</p>
+      <p>I'm Marcelo Silva Chaves, Front End Developer at Bigou Delivery, Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba Minas Gerais (IFSEMG)</p>
     </div>
     <div>
         <h3>Studying:</h3>
