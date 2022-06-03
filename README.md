@@ -42,8 +42,8 @@
     </div>
     <div>
       <h2> GitHub Stats </h2>
-        https://github-readme-stats.vercel.app/api?username=marcelochaves92&show_icons=true&count_private=true&theme=dark)
-        https://github-readme-stats.vercel.app/api/top-langs/?username=marcelochaves92&layout=compact&count_private=true&theme=dark)
+        ![Marcelo Chaves's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelochaves92&show_icons=true&count_private=true&theme=dark)
+        ![Marcelo Chaves's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ username=marcelochaves92&layout=compact&count_private=true&theme=dark)
     </div>
     <div align="left">
       <h2>Find Me</h2>
