@@ -34,12 +34,12 @@
     </div>
     <div align="left">
       <h2>Development Stack</h2>
-      <img src="https://img.icons8.com/nolan/64/html-5.png" title="HTML"  />
+      <img src="https://img.icons8.com/nolan/48/html-5.png" title="HTML"  />
       <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
-      <img src="https://img.icons8.com/office/16/undefined/react.png" title="React"/>
+      <img src="https://img.icons8.com/office/48/undefined/react.png" title="React"/>
       <img src="https://img.icons8.com/color/48/undefined/angularjs.png" title="AngularJS" />
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" title="Vue.js"/>
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" title="Vue.js"/>
       <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
