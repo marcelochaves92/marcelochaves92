@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Marcelo Silva Chaves</h1>
 <br>
 
-- 🧑🏻  I'm 23 years old
+- 🧑🏻  I'm 24 years old
 - 🔭  I’m currently working at [**Bigou Delivery**](https://bigou.com.br/)
 - 👨‍💻  All of my projects are available on [**my GitHub profile**](https://github.com/marcelochaves92)
 - 💼  My portfolio is available in [**portfolio**](https://portfolio-marcelochaves92.vercel.app)
@@ -19,7 +19,6 @@
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://angularjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/angularjs.png" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
@@ -29,9 +28,9 @@
 <br>
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between">
 
-![Leon Arantes's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelochaves92&show_icons=true&count_private=true&theme=dark)
+![Marcelo Chaves's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelochaves92&show_icons=true&count_private=true&theme=dark)
 
-![Leon Arantes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelochaves92&layout=compact&count_private=true&theme=dark)
+![Marcelo Chaves's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelochaves92&layout=compact&count_private=true&theme=dark)
 
 </div>
 
