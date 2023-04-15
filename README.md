@@ -4,7 +4,6 @@
 <br>
 
 - 🧑🏻  I'm 24 years old
-- 🔭  I’m currently working at [**Bigou Delivery**](https://bigou.com.br/)
 - 👨‍💻  All of my projects are available on [**my GitHub profile**](https://github.com/marcelochaves92)
 - 💼  My portfolio is available in [**portfolio**](https://portfolio-marcelochaves92.vercel.app)
 ---
