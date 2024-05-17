@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Marcelo Silva Chaves</h1>
 <br>
 
-- 🧑🏻  I'm 24 years old
+- 🧑🏻  I'm 25 years old
 - 👨‍💻  All of my projects are available on [**my GitHub profile**](https://github.com/marcelochaves92)
 - 💼  My portfolio is available in [**portfolio**](https://portfolio-marcelochaves92.vercel.app)
 ---
